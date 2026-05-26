@@ -61,6 +61,7 @@ const art = {
 **🎨 Design Capabilities**
 
 ```
+
 UI/UX Design      ████████████  Figma
 Wireframing       ██████████░░  Advanced
 System Analysis   █████████░░░  Advanced
