@@ -58,7 +58,7 @@ const art = {
 ### 🎨 Design Capabilities
 
 ```
-UI/UX Design & Prototyping  ████████████████████  Figma
+UI/UX Design & Prototyping   ████████████████████  Figma
 Wireframing & Mockups        ██████████████████░░  Advanced
 System Analysis (DFD, ERD)   █████████████████░░░  Advanced
 User Flow & Journey Mapping  ████████████████░░░░  Proficient
