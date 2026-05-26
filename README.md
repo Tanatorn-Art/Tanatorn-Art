@@ -15,7 +15,7 @@
 - 🗄 Database: MySQL, PostgreSQL
 - 🐳 DevOps & Tools: Git
 - 🤖 Interested in Automation, PLC & Smart Systems
-- 🌱 Currently learning advanced system architecture & cloud deployment
+- 🌱 Currently learning advanced system architecture
 
 ---
 
@@ -44,41 +44,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
 </p>
-
----
-
-## 📌 Featured Projects
-
-### 📦 Warehouse Management System
-- Real-time inventory management
-- Barcode & QR scanning
-- Shelf Mapping System
-- Dashboard & Analytics
-
-### 🏢 Meeting Room Booking System
-- Room reservation management
-- Approval workflow
-- Calendar integration
-- Notification system
-
-### 🤖 IoT & Automation Projects
-- PLC communication
-- Real-time monitoring
-- Smart device control
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanatorn-Art&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanatorn-Art&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Portfolio & Contact
 
