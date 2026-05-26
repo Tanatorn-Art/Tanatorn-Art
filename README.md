@@ -67,8 +67,8 @@ Wireframing       ██████████░░  Advanced
 System Analysis   █████████░░░  Advanced
 User Flow         ████████░░░░  Proficient
 Requirements      ████████████  Strong
-```
 
+```
 &nbsp;
 
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
