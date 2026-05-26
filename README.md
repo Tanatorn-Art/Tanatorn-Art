@@ -41,29 +41,42 @@ const art = {
 
 ## `> tech.stack`
 
-### ⚡ Core Stack
+<table>
+<tr>
+<td valign="top" width="65%">
 
-<div align="center">
+**⚡ Core Stack**
 
 | Frontend | Backend | Database | Tools |
 |:---:|:---:|:---:|:---:|
 | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | ![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=flat-square&logo=Adobe-XD&logoColor=FF61F6) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | ![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=flat-square&logo=adobexd&logoColor=white) |
 | ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white) | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) |
 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![SWR](https://img.shields.io/badge/SWR-000000?style=flat-square&logo=vercel&logoColor=white) | | ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) |
 
-</div>
+</td>
+<td valign="top" width="35%">
 
-### 🎨 Design Capabilities
+**🎨 Design Capabilities**
 
 ```
-UI/UX Design & Prototyping   ████████████████████  Figma
-Wireframing & Mockups        ██████████████████░░  Advanced
-System Analysis (DFD, ERD)   █████████████████░░░  Advanced
-User Flow & Journey Mapping  ████████████████░░░░  Proficient
-Requirement Gathering        ████████████████████  Strong
+UI/UX Design      ████████████  Figma
+Wireframing       ██████████░░  Advanced
+System Analysis   █████████░░░  Advanced
+User Flow         ████████░░░░  Proficient
+Requirements      ████████████  Strong
 ```
+
+&nbsp;
+
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![DFD](https://img.shields.io/badge/System-DFD_%26_ERD-6366f1?style=flat-square)
+![Wireframe](https://img.shields.io/badge/Design-Wireframing-0ea5e9?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
