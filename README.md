@@ -67,7 +67,6 @@ Wireframing       ██████████░░  Advanced
 System Analysis   █████████░░░  Advanced
 User Flow         ████████░░░░  Proficient
 Requirements      ████████████  Strong
-
 ```
 &nbsp;
 
