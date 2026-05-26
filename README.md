@@ -67,9 +67,7 @@ System Analysis   █████████░░░  Advanced
 User Flow         ████████░░░░  Proficient
 Requirements      ████████████  Strong
 ```
-
 &nbsp;
-
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![DFD](https://img.shields.io/badge/System-DFD_%26_ERD-6366f1?style=flat-square)
 ![Wireframe](https://img.shields.io/badge/Design-Wireframing-0ea5e9?style=flat-square)
