@@ -14,7 +14,7 @@
 *Bridging UI/UX design with robust backend engineering*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tanatorndev.xyz-0f172a?style=for-the-badge&labelColor=334155)](https://tanatorndev.xyz/page.html)
-[![Email](https://img.shields.io/badge/📧_Email-artist023@gmail.com-0f172a?style=for-the-badge&labelColor=334155)](mailto:artist023@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-artist023@gmail.com-0f172a?style=for-the-badge&labelColor=334155)](mailto:artists023@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Location-Prachinburi,_TH-0f172a?style=for-the-badge&labelColor=334155)](https://maps.google.com/?q=Prachinburi,Thailand)
 
 </div>
