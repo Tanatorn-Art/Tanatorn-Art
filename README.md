@@ -1,10 +1,6 @@
 <div align="center">
 
-```text
-> SYSTEM REBOOT INITIATED...
-> LOADING CYBER_CORE_V2...
-> NEURAL LINK ESTABLISHED.
-
+```
 ████████╗ █████╗ ███╗   ██╗ █████╗ ████████╗ ██████╗ ██████╗ ███╗   ██╗
 ╚══██╔══╝██╔══██╗████╗  ██║██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗████╗  ██║
    ██║   ███████║██╔██╗ ██║███████║   ██║   ██║   ██║██████╔╝██╔██╗ ██║
@@ -13,69 +9,70 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### `[ ID: ART // IT_PROGRAMMER & FULLSTACK_ENGINEER ]`
+### `{ Art }` · IT Programmer · Fullstack Developer
 
-*Bridging bio-digital UI/UX with high-performance backend architecture. 🦾⚡*
+*Bridging UI/UX design with robust backend engineering*
 
-[![Portfolio](https://img.shields.io/badge/UPLINK_PORTFOLIO-tanatorndev.xyz-00FF00?style=for-the-badge&labelColor=0a0a0a&color=111111)](https://tanatorndev.xyz/page.html)
-[![Email](https://img.shields.io/badge/SECURE_COMMS-artists023@gmail.com-00FFFF?style=for-the-badge&labelColor=0a0a0a&color=111111)](mailto:artists023@gmail.com)
-[![Location](https://img.shields.io/badge/GEO_TRACK-Prachinburi,_TH-FF00FF?style=for-the-badge&labelColor=0a0a0a&color=111111)](https://maps.google.com/?q=Prachinburi,Thailand)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tanatorndev.xyz-0f172a?style=for-the-badge&labelColor=334155)](https://tanatorndev.xyz/page.html)
+[![Email](https://img.shields.io/badge/📧_Email-artist023@gmail.com-0f172a?style=for-the-badge&labelColor=334155)](mailto:artist023@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Location-Prachinburi,_TH-0f172a?style=for-the-badge&labelColor=334155)](https://maps.google.com/?q=Prachinburi,Thailand)
 
 </div>
 
 ---
 
-### 📟 `> sys.whoami`
+## `> whoami`
 
-```json
-{
-  "entity": "Tanatorn (Art) Chuaysongkhor",
-  "class": "Fullstack Operative",
-  "base_coord": "Kabin Buri, Prachinburi [TH]",
-  "cycle_time": "GMT+7 // STANDBY: FULL-TIME",
-  "primary_directives": ["WMS", "MES", "Neural Dashboards", "UI/UX Protocol"],
-  "core_engine": "Clean code + Intuitive interfaces + Cross-platform synchronization"
-}
+```ts
+const art = {
+  name     : "Tanatorn (Art) Chuaysongkhor",
+  role     : "IT Programmer · Fullstack Developer",
+  location : "Kabin Buri, Prachinburi 🇹🇭",
+  timezone : "GMT+7 · Available Full-time",
+  focus    : ["WMS", "MES", "Dashboard Systems", "UI/UX Design"],
+  passion  : "Clean code + intuitive interfaces + cross-device experiences",
+};
 ```
 
-> 💬 *Fullstack developer who doesn't just write code — I analyze, design, and deploy.*
-> From factory mainframe dashboards to biometric face-scan systems, I build architecture that **survives production environments**. 🚀
+> Fullstack developer who doesn't just write code — I analyze, design, and ship.
+> From factory dashboards to face scan systems, I build things that **actually work in production**.
 
 ---
 
-### 🔋 `> tech.stack`
+## `> tech.stack`
 
 <table>
 <tr>
 <td valign="top" width="65%">
 
-#### ⚡ NEURAL NETWORKS (Core Stack)
+**⚡ Core Stack**
 
 | Frontend | Backend | Database | Tools |
 |:---:|:---:|:---:|:---:|
-| ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FFFF) | ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF00) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=316192) | ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF3300) |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00AAFF) | ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=FF00FF) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC) | ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00FF00) | ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E) | ![Adobe XD](https://img.shields.io/badge/Adobe_XD-000000?style=for-the-badge&logo=adobexd&logoColor=FF0055) |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FFFF) | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFCC00) | ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=postman&logoColor=FF6600) | ![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=0088FF) |
-| ![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00AAFF) | ![SWR](https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=vercel&logoColor=white) | | ![Chart.js](https://img.shields.io/badge/Chart.js-000000?style=for-the-badge&logo=chartdotjs&logoColor=FF3366) |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | ![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=flat-square&logo=adobexd&logoColor=white) |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white) | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![SWR](https://img.shields.io/badge/SWR-000000?style=flat-square&logo=vercel&logoColor=white) | | ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) |
 
 </td>
 <td valign="top" width="35%">
 
-#### 🦾 SYNTHETIC DESIGN SKILLS
+**🎨 Design Capabilities**
 
-```text
-UI/UX Design    [████████████] MAX
-Wireframing     [██████████░░] Lvl 8
-System Analysis [█████████░░░] Lvl 7
-User Flow       [████████░░░░] Lvl 6
-Requirements    [████████████] MAX
 ```
 
+UI/UX Design      ████████████  Figma
+Wireframing       ██████████░░  Advanced
+System Analysis   █████████░░░  Advanced
+User Flow         ████████░░░░  Proficient
+Requirements      ████████████  Strong
+```
 &nbsp;
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Figma-000000?style=flat-square&logo=figma&logoColor=FF00FF&color=111111)
-![DFD](https://img.shields.io/badge/System-DFD_%26_ERD-000000?style=flat-square&color=333333)
-![Wireframe](https://img.shields.io/badge/Design-Wireframing-000000?style=flat-square&color=222222)
+
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![DFD](https://img.shields.io/badge/System-DFD_%26_ERD-6366f1?style=flat-square)
+![Wireframe](https://img.shields.io/badge/Design-Wireframing-0ea5e9?style=flat-square)
 
 </td>
 </tr>
@@ -83,127 +80,129 @@ Requirements    [████████████] MAX
 
 ---
 
-### 🧬 `> mission.logs`
+## `> experience`
 
-#### 🏭 Haier Electric (Thailand) PCL `[ 2024 – PRESENT ]`
-**Full Stack Operative** · *Next.js · PostgreSQL · Chart.js*
+### 🏭 Haier Electric (Thailand) PCL `2024 – Present`
+**Full Stack Developer** · *Next.js · PostgreSQL · Chart.js*
 
 <details>
-<summary><b>📦 WMS & MES Integration Systems</b></summary>
+<summary><b>🔧 WMS & MES Integration Systems</b></summary>
 
 > Unified Warehouse Management and Manufacturing Execution systems powering end-to-end factory operations.
 
-- ⚙️ Deployed integrated WMS and MES for heavy-duty production workflows.
-- 🔄 Engineered real-time data streaming between operational grids.
-- 📐 Translated abstract requirements into concrete, production-grade architecture.
+- Built integrated WMS and MES supporting production workflows and inventory tracking
+- Designed real-time data flows between operational systems
+- Analyzed requirements and translated them into production-grade system architecture
 
-`Next.js` · `PostgreSQL` · `REST API`
+**Stack:** `Next.js` `PostgreSQL` `REST API`
 
 </details>
 
 <details>
 <summary><b>📊 Factory Dashboard Reporting System</b></summary>
 
-> Data visualization grid replacing obsolete manual reporting protocols.
+> Data visualization platform replacing manual reporting across production lines.
 
-- 📉 **60% reduction** in data processing time.
-- 🛰️ Upgraded inventory tracking accuracy.
-- 📡 Activated real-time monitoring and alert beacons.
-- ⚡ Minimized human-error vectors in manual operations.
+- ⬇️ **60% reduction** in report preparation time
+- 📦 Improved inventory tracking accuracy
+- 📡 Real-time monitoring and alerting implementation
+- 📉 Reduced manual operation workload significantly
 
-`Next.js` · `PostgreSQL` · `Chart.js`
-
-</details>
-
-<details>
-<summary><b>👤 Biometric Attendance Interface</b></summary>
-
-> Face-scan authentication and personnel tracking mainframe.
-
-- 👁️ Engineered facial recognition nodes for attendance tracking.
-- 📊 Deployed analytics grid for shift and personnel monitoring.
-
-`Next.js` · `PostgreSQL`
+**Stack:** `Next.js` `PostgreSQL` `Chart.js`
 
 </details>
 
 <details>
-<summary><b>🗓️ Resource Allocation System</b></summary>
+<summary><b>👤 Face Scan Attendance System</b></summary>
 
-> Internal grid for room and vehicle authorization.
+> Biometric-based authentication and shift management platform.
 
-- 📝 Constructed booking nodes with multi-level approval matrices.
-- ⚙️ Calibrated system logic, executed routine maintenance.
+- Built facial recognition-powered attendance tracking
+- Developed analytics dashboard for shift and attendance monitoring
 
-`Next.js` · `PostgreSQL`
+**Stack:** `Next.js` `PostgreSQL`
+
+</details>
+
+<details>
+<summary><b>🗓️ Room & Vehicle Booking System</b></summary>
+
+> Internal resource booking platform with approval workflows.
+
+- Built booking system with full approval workflow
+- Designed system logic, handled maintenance and user support
+
+**Stack:** `Next.js` `PostgreSQL`
 
 </details>
 
 ---
 
-#### 🎨 Independent Contractor `[ 2021 – 2022 ]`
-**3D Architect / Developer**
+### 🎨 Freelance `2021 – 2022`
+**3D Designer / Developer**
 
 <details>
-<summary><b>🌱 SeedSense — Bio-Health Interface</b></summary>
+<summary><b>🌱 SeedSense — Health Awareness Device</b></summary>
 
-> Interactive 3D construct for a social health initiative.
+> Interactive 3D prototype for a social health initiative reducing spread of STDs.
 
-- 🧊 Rendered 3D prototypes for self-help health awareness modules.
-- 🎬 Generated multimedia simulations and interactive narrative sequences.
+- Designed 3D prototype for self-help health awareness device
+- Produced multimedia content and interactive storytelling components
 
-`3D Design` · `Multimedia`
+**Stack:** `3D Design` `Multimedia`
 
 </details>
 
 ---
 
-### 💽 `> memory.archives`
+## `> education`
 
-```text
-🎓 [B.Sc.] Information Technology (Digital Business)
-   King Mongkut's University of Technology North Bangkok
-   Base: Prachinburi Campus
-   Performance Metric: 3.33 / 4.00
+```
+🎓  B.Sc. Information Technology (Digital Business)
+    King Mongkut's University of Technology North Bangkok
+    Prachinburi Campus
+    GPA: 3.33 / 4.00
 
-📚 [DIPLOMA] High School Core
-   Saimit Suksa Academy · Kabin Buri
+📚  High School Diploma
+    Saimit Suksa School · Kabin Buri
 ```
 
 ---
 
-### 🌐 `> comms.protocol`
+## `> languages`
 
-| Dialect | Mastery Level |
+| Language | Level |
 |:---|:---|
-| 🇹🇭 TH (Thai) | Level 10 (Native) |
-| 🇬🇧 EN (English) | Level 6 (Intermediate) |
+| 🇹🇭 Thai | Native |
+| 🇬🇧 English | Intermediate |
 
 ---
 
-### 📡 `> system.status`
+## `> availability`
 
-```yaml
-status: "🟢 OPEN TO DIRECTIVES"
-timezone: "UTC+7 (Thailand Sector)"
-availability: "Full-Time Deployment"
-role: "IT Programmer // Fullstack"
-work_mode: ["On-site (Physical)", "Hybrid (Neural Link)"]
-location: "Prachinburi, TH"
+```json
+{
+  "status"      : "✅ Open to Opportunities",
+  "timezone"    : "Thailand (GMT+7)",
+  "availability": "Full-time",
+  "role"        : "IT Programmer",
+  "work_mode"   : ["On-site", "Hybrid"],
+  "location"    : "Prachinburi, Thailand"
+}
 ```
 
 ---
 
 <div align="center">
 
-### 🚀 INITIALIZE CO-OP MODE?
+### Let's build something great together.
 
-[![Connect](https://img.shields.io/badge/ESTABLISH_UPLINK-→-00FF00?style=for-the-badge&labelColor=000000&color=111111)](https://tanatorndev.xyz/page.html)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-→-0f172a?style=for-the-badge&labelColor=1e40af)](https://tanatorndev.xyz/page.html)
 &nbsp;
-[![Email](https://img.shields.io/badge/TRANSMIT_DATA-→-00FFFF?style=for-the-badge&labelColor=000000&color=111111)](mailto:artist023@gmail.com)
+[![Email](https://img.shields.io/badge/Send_Me_an_Email-→-0f172a?style=for-the-badge&labelColor=065f46)](mailto:artist023@gmail.com)
 
 ---
 
-*`> system.exit(0) :: "Crafted with precision · Deployed with dominance"`*
+*`$ echo "Crafted with precision · Shipped with pride"`*
 
 </div>
