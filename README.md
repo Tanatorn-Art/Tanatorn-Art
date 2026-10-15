@@ -77,7 +77,9 @@ Requirements      ████████████  Strong
 </td>
 </tr>
 </table>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanatorn-Art&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## `> experience`
