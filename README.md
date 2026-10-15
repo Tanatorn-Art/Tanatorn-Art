@@ -13,7 +13,6 @@
 
 *Building enterprise systems, intuitive interfaces, and local AI / LLM applications*
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tanatorndev.xyz-0f172a?style=for-the-badge&labelColor=334155)](https://tanatorndev.xyz/page.html)
 [![Email](https://img.shields.io/badge/📧_Email-tanatorn.ch.work@gmail.com-0f172a?style=for-the-badge&labelColor=334155)](mailto:tanatorn.ch.work@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Location-Prachinburi,_TH-0f172a?style=for-the-badge&labelColor=334155)](https://maps.google.com/?q=Prachinburi,Thailand)
 
@@ -277,8 +276,6 @@ Requirements      ████████████  Strong
 
 ### Let's build something great together.
 
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-→-0f172a?style=for-the-badge&labelColor=1e40af)](https://tanatorndev.xyz/page.html)
-&nbsp;
 [![Email](https://img.shields.io/badge/Send_Me_an_Email-→-0f172a?style=for-the-badge&labelColor=065f46)](mailto:tanatorn.ch.work@gmail.com)
 
 ---
